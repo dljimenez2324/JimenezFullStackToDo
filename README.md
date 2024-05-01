@@ -24,9 +24,9 @@ Create a ToDo application API follow these steps: <br>
     * Add controllers and actions for CRUD operations in your application logic.
 8. Test your API:
 
-    * Test your ToDo API using tools like Postman or curl or Swagger to ensure that CRUD operations work as expected and that data is persisted correctly in the database. <br><br>
+    * Test your ToDo API using tools like Postman or curl or Swagger to ensure that CRUD operations work as expected and that data is persisted correctly in the database. <br>
 
-9. Needs to be reviewed before submission<br>
+9. Needs to be reviewed before submission<br><br>
 
 By following these steps, you can create a ToDo application using ASP.NET Core Web API with Entity Framework Core for data access. This setup allows you to build a scalable and maintainable API for managing ToDo items.
 
