@@ -34,7 +34,7 @@ By following these steps, you can create a ToDo application using ASP.NET Core W
 <br>
 
 <b>Resources:</b> <br>
-<b>GitHub:</b> https://github.com/dljimenez2324/ <br>
+<b>GitHub:</b> https://github.com/dljimenez2324/JimenezFullStackToDo <br>
 
 
 Peer Reviewed by  <br>
