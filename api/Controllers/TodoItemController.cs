@@ -10,6 +10,9 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class TodoItemController : ControllerBase
     {
-        
+        // add out httpGets and others
+        // [HttpGet]
+
+
     }
 }
