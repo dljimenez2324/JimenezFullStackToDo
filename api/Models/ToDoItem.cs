@@ -12,6 +12,6 @@ namespace api.Models
         public string? TaskName { get; set; }
         public string? TaskDescription { get; set; }
 
-        public bool Done { get; set; }
+        public bool Done { get; set; } = false;
     }
 }
