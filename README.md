@@ -38,5 +38,5 @@ By following these steps, you can create a ToDo application using ASP.NET Core W
 <b>GitHub:</b> https://github.com/dljimenez2324/JimenezFullStackToDo <br>
 
 
-Peer Reviewed by  <br>
-Comments:  <br> <br>
+Peer Reviewed by: Aaron Perez  <br>
+Comments: Tested on Swagger Get Post Delete Get and Post all work correctly as they are suppose to. Great job.<br> <br>
